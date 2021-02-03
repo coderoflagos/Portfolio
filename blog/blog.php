@@ -1,4 +1,4 @@
-
+ 
 <!DOCTYPE html>
 <html>
 <head>
@@ -210,7 +210,6 @@ section{
 </nav>
 
 
- <!--AfrikTV's Hero Section should be here...-->
   <section class="bg-light" style="background-image: url(img/bg.jpg); background-size: cover; background-attachment: fixed; color:#fff;">
     <div class="container">
       <div class="row">
